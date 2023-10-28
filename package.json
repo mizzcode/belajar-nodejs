@@ -1,0 +1,19 @@
+{
+  "name": "belajar-nodejs",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mizzcode/belajar-nodejs.git"
+  },
+  "author": "Misbahudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizzcode/belajar-nodejs/issues"
+  },
+  "homepage": "https://github.com/mizzcode/belajar-nodejs#readme"
+}
